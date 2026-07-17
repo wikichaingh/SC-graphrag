@@ -1,0 +1,9 @@
+id_proveedor;id_material;porcentaje_suministro_global
+P001;M001;0.70
+P002;M001;0.30
+P001;M002;0.50
+P002;M002;0.50
+P003;M005;0.80
+P004;M003;0.60
+P004;M004;0.80
+P005;M003;0.40

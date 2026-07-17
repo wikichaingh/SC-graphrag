@@ -1,0 +1,7 @@
+id_orden;id_producto;id_planta;cantidad;fecha_compromiso;cliente;region_cliente
+O1001;PR01;PL01;50000;15/08/2026;DistribuidoraSaludMX;Latam
+O1002;PR02;PL01;30000;20/08/2026;HospitalCentralMX;Latam
+O1003;PR03;PL02;40000;25/08/2026;CadenaFarmaciasEU;Europa
+O1004;PR01;PL02;25000;1/09/2026;MayoristaGenéricosMX;Latam
+O1005;PR04;PL03;5000;30/08/2026;LaboratorioAnalisisEU;Europa
+O1006;PR02;PL03;15000;5/09/2026;RedClinicasEU;Europa
