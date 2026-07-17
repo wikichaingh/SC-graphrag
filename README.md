@@ -137,11 +137,17 @@ Versionar cambios importantes del dataset con mensajes de commit descriptivos.
 
 Criterios de evaluación sugeridos
 Criterio	            Qué se espera
+
 Diseño del modelo   	Correspondencia lógica entre CSV, nodos y relaciones
+
 Calidad de importación	Carga correcta, sin duplicados y con tipos de datos consistentes
+
 Consultas Cypher    	Capacidad para responder preguntas de trazabilidad y resiliencia
+
 Implementación GraphRAG	Integración funcional entre grafo, recuperación y generación
+
 Análisis gerencial	    Interpretación rigurosa del impacto operativo y alternativas
+
 
 Créditos y uso académico
 Este repositorio se ha concebido con fines didácticos para cursos de maestría en cadena de suministro, analítica y sistemas inteligentes aplicados a operaciones. La práctica puede adaptarse a otros contextos industriales, siempre que se mantenga la lógica de relaciones entre proveedores, materiales, instalaciones, productos y demanda.
