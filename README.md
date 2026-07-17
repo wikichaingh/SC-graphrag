@@ -26,10 +26,15 @@ GitHub muestra el README.md en la raíz del repositorio y esa ubicación es la r
 Se sugiere la siguiente organización:
 supply-chain-graphrag/
 ├── README.md
+
 ├── data/
+
 │   ├── proveedores.csv
+
 │   ├── materias_primas.csv
+
 │   ├── plantas.csv
+
 │   ├── productos.csv
 │   ├── bom.csv
 │   ├── relaciones_proveedor_material.csv
