@@ -136,17 +136,17 @@ Incluir un diccionario de datos cuando el proyecto crezca en complejidad. La doc
 Versionar cambios importantes del dataset con mensajes de commit descriptivos.
 
 Criterios de evaluación sugeridos
-Criterio	            Qué se espera
+Criterio / Qué se espera
 
-Diseño del modelo   	Correspondencia lógica entre CSV, nodos y relaciones
+Diseño del modelo / Correspondencia lógica entre CSV, nodos y relaciones
 
-Calidad de importación	Carga correcta, sin duplicados y con tipos de datos consistentes
+Calidad de importación / Carga correcta, sin duplicados y con tipos de datos consistentes
 
-Consultas Cypher    	Capacidad para responder preguntas de trazabilidad y resiliencia
+Consultas Cypher / Capacidad para responder preguntas de trazabilidad y resiliencia
 
-Implementación GraphRAG	Integración funcional entre grafo, recuperación y generación
+Implementación GraphRAG / Integración funcional entre grafo, recuperación y generación
 
-Análisis gerencial	    Interpretación rigurosa del impacto operativo y alternativas
+Análisis gerencial / Interpretación rigurosa del impacto operativo y alternativas
 
 
 Créditos y uso académico
