@@ -136,6 +136,7 @@ Incluir un diccionario de datos cuando el proyecto crezca en complejidad. La doc
 Versionar cambios importantes del dataset con mensajes de commit descriptivos.
 
 Criterios de evaluación sugeridos
+
 Criterio / Qué se espera
 
 Diseño del modelo / Correspondencia lógica entre CSV, nodos y relaciones
