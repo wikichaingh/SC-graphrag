@@ -1,4 +1,4 @@
-id_producto;id_material;cantidad_material_por_unidad
+id_producto,id_material,cantidad_material_por_unidad
 PR01,M001,1.0
 PR01,M002,0.3
 PR01,M003,1.0
