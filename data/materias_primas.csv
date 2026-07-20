@@ -1,0 +1,6 @@
+id_material,nombre_material,categoria,criticidad_material
+M001,API DolorMax,API,alta
+M002,ExcipienteX,excipient,media
+M003,BlísterAlu,packaging,media
+M004,CajaCartónPremium,packaging,baja
+M005,ChipControlCalidad,componente_electrónico,alta

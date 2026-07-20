@@ -1,0 +1,8 @@
+id_ruta,origen,destino,modo,lead_time_dias,costo_unitario
+R001,PL01,DistribuidoraSaludMX,terrestre,3,0.10
+R002,PL01,HospitalCentralMX,terrestre,2,0.08
+R003,PL02,MayoristaGenéricosMX,terrestre,4,0.12
+R004,PL02,CadenaFarmaciasEU,maritimo,15,0.25
+R005,PL03,RedClinicasEU,terrestre,3,0.09
+R006,PL03,LaboratorioAnalisisEU,terrestre,2,0.07
+R007,PL02,CadenaFarmaciasEU,aereo,5,0.60

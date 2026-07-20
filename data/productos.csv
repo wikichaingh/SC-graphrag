@@ -1,0 +1,5 @@
+id_producto,nombre_producto,familia,margen_contribucion
+PR01,DolorMax 500mg,farma_solidos,8.5
+PR02,DolorMax 1g,farma_solidos,9.0
+PR03,DolorMax Premium Pack,farma_solidos,11.0
+PR04,KitControlCalidadFarma,servicios_calidad,13.5

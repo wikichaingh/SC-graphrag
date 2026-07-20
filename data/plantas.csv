@@ -1,0 +1,4 @@
+id_planta,nombre_planta,pais,tipo,capacidad_unidades_mes
+PL01,Planta Norte,México,manufactura,200000
+PL02,Planta Sur,México,manufactura,150000
+PL03,Planta Europa,España,empaquetado,100000

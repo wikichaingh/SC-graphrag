@@ -1,0 +1,6 @@
+id_proveedor,nombre_proveedor,pais,tipo,criticidad,tiempo_entrega_dias
+P001,QuimicaGlobal,China,materia_prima,alta,30
+P002,InsumosLatam,México,materia_prima,media,12
+P003,CompTecEurope,Alemania,componentes,alta,18
+P004,PackSolutions,España,packaging,baja,10
+P005,LogiTrans,Estados Unidos,servicios_logisticos,media,20
